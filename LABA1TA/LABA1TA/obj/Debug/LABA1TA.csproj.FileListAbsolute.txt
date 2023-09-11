@@ -1,0 +1,42 @@
+C:\Users\vladimir\Desktop\LABA1TA\LABA1TA\bin\Debug\LABA1TA.exe.config
+C:\Users\vladimir\Desktop\LABA1TA\LABA1TA\bin\Debug\LABA1TA.exe
+C:\Users\vladimir\Desktop\LABA1TA\LABA1TA\bin\Debug\LABA1TA.pdb
+C:\Users\vladimir\Desktop\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.AssemblyReference.cache
+C:\Users\vladimir\Desktop\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladimir\Desktop\LABA1TA\LABA1TA\obj\Debug\LABA1TA.Form1.resources
+C:\Users\vladimir\Desktop\LABA1TA\LABA1TA\obj\Debug\LABA1TA.Properties.Resources.resources
+C:\Users\vladimir\Desktop\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.GenerateResource.cache
+C:\Users\vladimir\Desktop\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.CoreCompileInputs.cache
+C:\Users\vladimir\Desktop\LABA1TA\LABA1TA\obj\Debug\LABA1TA.exe
+C:\Users\vladimir\Desktop\LABA1TA\LABA1TA\obj\Debug\LABA1TA.pdb
+C:\Users\vladi\Desktop\TA\LABA1TA\LABA1TA\bin\Debug\LABA1TA.exe.config
+C:\Users\vladi\Desktop\TA\LABA1TA\LABA1TA\bin\Debug\LABA1TA.exe
+C:\Users\vladi\Desktop\TA\LABA1TA\LABA1TA\bin\Debug\LABA1TA.pdb
+C:\Users\vladi\Desktop\TA\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.AssemblyReference.cache
+C:\Users\vladi\Desktop\TA\LABA1TA\LABA1TA\obj\Debug\LABA1TA.Form1.resources
+C:\Users\vladi\Desktop\TA\LABA1TA\LABA1TA\obj\Debug\LABA1TA.Properties.Resources.resources
+C:\Users\vladi\Desktop\TA\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\TA\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\TA\LABA1TA\LABA1TA\obj\Debug\LABA1TA.exe
+C:\Users\vladi\Desktop\TA\LABA1TA\LABA1TA\obj\Debug\LABA1TA.pdb
+C:\Users\Onzeboy\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\bin\Debug\LABA1TA.exe.config
+C:\Users\Onzeboy\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\bin\Debug\LABA1TA.exe
+C:\Users\Onzeboy\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\bin\Debug\LABA1TA.pdb
+C:\Users\Onzeboy\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.AssemblyReference.cache
+C:\Users\Onzeboy\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Onzeboy\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.Form1.resources
+C:\Users\Onzeboy\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.Properties.Resources.resources
+C:\Users\Onzeboy\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.GenerateResource.cache
+C:\Users\Onzeboy\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.CoreCompileInputs.cache
+C:\Users\Onzeboy\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.exe
+C:\Users\Onzeboy\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.pdb
+C:\Users\vladi\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\bin\Debug\LABA1TA.exe.config
+C:\Users\vladi\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\bin\Debug\LABA1TA.exe
+C:\Users\vladi\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\bin\Debug\LABA1TA.pdb
+C:\Users\vladi\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.AssemblyReference.cache
+C:\Users\vladi\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.Form1.resources
+C:\Users\vladi\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.Properties.Resources.resources
+C:\Users\vladi\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.exe
+C:\Users\vladi\Desktop\ХУЕСОСУ ЕБАНОМУ\LABA1TA\LABA1TA\obj\Debug\LABA1TA.pdb
