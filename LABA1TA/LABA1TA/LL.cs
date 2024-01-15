@@ -55,7 +55,7 @@ namespace LABA1TA
         {
             Succes = false;
             if (token[i].Type != Token.TokenType.VOID)
-                throw new Exception($"1\nSTRING: {i + 1} - Ожидалось: void, а получено: {token[i].Type}");
+                throw new Exception($"1\nSTRING: {i + 1} - Ожидалось: goida, а получено: {token[i].Type}");
             Next();
             if (token[i].Type != Token.TokenType.MAIN)
                 throw new Exception($"1\nSTRING: {i + 1} - Ожидалось: main, а получено: {token[i].Type}");
