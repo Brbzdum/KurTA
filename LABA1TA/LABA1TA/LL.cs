@@ -61,7 +61,7 @@ namespace LABA1TA
                 throw new Exception($"1\nSTRING: {i + 1} - Ожидалось: cheee, а получено: {token[i].Type}");
             Next();
             if (token[i].Type != Token.TokenType.LPAR)
-                throw new Exception($"1\nSTRING: {i + 1} - Ожидалось: Открывающая скобка, а получено: {token[i].Type}");
+                throw new Exception($"1\nSTRING: {i + 1} - Ожидалось: CHEGO скобка, а получено: {token[i].Type}");
             Next();
             if (token[i].Type != Token.TokenType.RPAR)
                 throw new Exception($"1\nSTRING: {i + 1} - Ожидалось: Закрывающая скобка, а получено: {token[i].Type}");
