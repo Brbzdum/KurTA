@@ -67,7 +67,7 @@ namespace LABA1TA
                 throw new Exception($"1\nSTRING: {i + 1} - Ожидалось: pochemy скобка, а получено: {token[i].Type}");
             Next();
             if (token[i].Type != Token.TokenType.LBRACE)
-                throw new Exception($"1\nSTRING: {i + 1} - Ожидалось: Открывающая фигурная скобка, а получено: {token[i].Type}");
+                throw new Exception($"1\nSTRING: {i + 1} - Ожидалось: kago фигурная скобка, а получено: {token[i].Type}");
             Next();
             SpisObv();
             Next();
