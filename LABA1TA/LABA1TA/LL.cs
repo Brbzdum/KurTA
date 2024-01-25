@@ -198,7 +198,7 @@ namespace LABA1TA
                     break;
                 case Token.TokenType.GREATEREQ:
                     break;
-                default: throw new Exception($"12\nSTRING: {i + 1} - Ожидалось: логические знаки, а получено: {token[i].Type}");
+                default: throw new Exception($"12\nSTRING: {i + 1} - Ожидалось: логические знак, а получено: {token[i].Type}");
             }
         }
         public void Prisv()
